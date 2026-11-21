@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30132653919",
+    "project_id": "gabut-7ad46",
+    "storage_bucket": "gabut-7ad46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30132653919:android:1e761b17b1a5fc164d30ea",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnUfaB_XJ69zorl74OxWltVV6PQwjydU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30132653919:android:0700355b9e7f64ea4d30ea",
+        "android_client_info": {
+          "package_name": "com.example.myApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnUfaB_XJ69zorl74OxWltVV6PQwjydU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
