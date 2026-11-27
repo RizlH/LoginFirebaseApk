@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Firebase Simple Auth',
       theme: ThemeData(primarySwatch: Colors.purple),
+      debugShowCheckedModeBanner: false,
       home: const AuthWrapper(),
     );
   }
